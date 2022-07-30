@@ -1,4 +1,4 @@
-![Status](https://github.com/maddogsstyle/db/actions/workflows/run-tests-2022-02.yml/badge.svg)
+[![ansible](https://github.com/maddogsstyle/db/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/maddogsstyle/db/actions/workflows/ansible-lint.yml)
 Role Name
 =========
 
