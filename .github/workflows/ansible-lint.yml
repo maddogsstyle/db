@@ -14,4 +14,4 @@ jobs:
       - name: Run ansible-lint
         uses: ansible-community/ansible-lint-action@main
         with:
-          path: "./molecule/default/roles/port.yml"
+          path: "./molecule/default/converge.yml"
