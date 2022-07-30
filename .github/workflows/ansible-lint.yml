@@ -14,4 +14,4 @@ jobs:
       - name: Run ansible-lint
         uses: ansible-community/ansible-lint-action@main
         with:
-          path: "./"
+          path: "./molecule/default/molecule.yml"
