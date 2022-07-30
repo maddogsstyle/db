@@ -1,3 +1,4 @@
+![Status](https://github.com/maddogsstyle/db/actions/workflows/run-tests-2022-02.yml/badge.svg)
 Role Name
 =========
 
